@@ -1761,6 +1761,12 @@
   },
   {
     "artist": "test123",
-    "sessions": []
+    "sessions": [
+      {
+        "title": "test",
+        "image": "adasdadasda",
+        "link": "adadadadad"
+      }
+    ]
   }
 ]
